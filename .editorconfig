@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CA1716: Identifiers should not match keywords
+dotnet_diagnostic.CA1716.severity = silent
+
+# CA1063: Implement IDisposable Correctly
+dotnet_diagnostic.CA1063.severity = none
+
+# SA1633: File should have header
+dotnet_diagnostic.SA1633.severity = silent

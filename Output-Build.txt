@@ -1,0 +1,27 @@
+﻿1>------ Rebuild All started: Project: Domain, Configuration: Debug Any CPU ------
+1>Domain -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\src\Domain\bin\Debug\netstandard2.1\Condominium.Domain.dll
+2>------ Rebuild All started: Project: Application, Configuration: Debug Any CPU ------
+3>------ Rebuild All started: Project: Domain.UnitTests, Configuration: Debug Any CPU ------
+3>Domain.UnitTests -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\tests\Domain.UnitTests\bin\Debug\netcoreapp3.1\Domain.UnitTests.dll
+2>Application -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\src\Application\bin\Debug\netstandard2.1\Condominium.Application.dll
+4>------ Rebuild All started: Project: Infrastructure, Configuration: Debug Any CPU ------
+4>Infrastructure -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\src\Infrastructure\bin\Debug\netcoreapp3.1\Condominium.Infrastructure.dll
+5>------ Rebuild All started: Project: WebUI, Configuration: Debug Any CPU ------
+6>------ Rebuild All started: Project: Application.UnitTests, Configuration: Debug Any CPU ------
+7>------ Rebuild All started: Project: Infrastructure.IntegrationTests, Configuration: Debug Any CPU ------
+6>Application.UnitTests -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\tests\Application.UnitTests\bin\Debug\netcoreapp3.1\Condominium.Application.UnitTests.dll
+7>Infrastructure.IntegrationTests -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\tests\Infrastructure.IntegrationTests\bin\Debug\netcoreapp3.1\Condominium.Infrastructure.IntegrationTests.dll
+5>WebUI -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\src\WebUI\bin\Debug\netcoreapp3.1\Condominium.WebUI.dll
+5>WebUI -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\src\WebUI\bin\Debug\netcoreapp3.1\Condominium.WebUI.Views.dll
+5>NSwag command line tool for .NET Core NetCore30, toolchain v13.1.6.0 (NJsonSchema v10.0.28.0 (Newtonsoft.Json v12.0.0.0))
+5>Visit http://NSwag.org for more information.
+5>NSwag bin directory: C:\Users\DEVELOPMENT\.nuget\packages\nswag.msbuild\13.1.6\tools\NetCore30
+5>
+5>Executing file 'nswag.json' with variables 'Configuration=Debug'...
+5>Launcher directory: C:\Users\DEVELOPMENT\.nuget\packages\nswag.msbuild\13.1.6\tools\NetCore30
+5>Done.
+5>
+5>Duration: 00:00:04.2693288
+8>------ Rebuild All started: Project: WebUI.IntegrationTests, Configuration: Debug Any CPU ------
+8>WebUI.IntegrationTests -> C:\Users\DEVELOPMENT\Source\Repos\Condominium\tests\WebUI.IntegrationTests\bin\Debug\netcoreapp3.1\Condominium.WebUI.IntegrationTests.dll
+========== Rebuild All: 8 succeeded, 0 failed, 0 skipped ==========
